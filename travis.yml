@@ -1,0 +1,7 @@
+---
+language: python
+
+python:
+  - "3.10.4"
+
+script: python main.py
